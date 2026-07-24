@@ -57,7 +57,7 @@ lib/
 
 ## Disclaimer
 
-This project is intended for educational and demonstration purposes. Remove any company-specific configurations, credentials, or proprietary information before deploying to production.
+This repository demonstrates the architecture and implementation approach of an AI-powered NetSuite assistant. Proprietary business logic, company-specific configurations, credentials, and sensitive assets have been removed before publication.
 
 ## License
 
